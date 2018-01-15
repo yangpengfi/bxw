@@ -1,0 +1,17 @@
+{
+  "name": "bxwManger",
+  "homepage": "https://github.com/yangpengfi/bxw",
+  "authors": [
+    "e <332736484@qq.com>"
+  ],
+  "description": "\"库代码管理\"",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
